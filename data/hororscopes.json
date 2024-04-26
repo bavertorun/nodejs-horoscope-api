@@ -1,0 +1,74 @@
+[
+    {
+        "Id": 1,
+        "name": "Yay",
+        "description": "Yay burcu insanları genellikle iyimser, cesur ve maceraperest olarak tanımlanır. Açık fikirli olmaları ve özgürlüklerine düşkünlükleriyle bilinirler. Yüksek enerjileri ve geniş görüş açılarıyla etraflarında pozitif bir atmosfer yaratırlar.",
+        "date": "2024-01-15"
+    },
+    {
+        "Id": 2,
+        "name": "Oğlak",
+        "description": "Oğlak burcu insanları disiplinli, kararlı ve sorumluluk sahibi olarak bilinirler. Pratik ve hedef odaklı bir yaklaşımları vardır. Sabır ve azimle çalışarak kariyerlerinde başarı elde etmeyi hedeflerler.",
+        "date": "2024-02-22"
+    },
+    {
+        "Id": 3,
+        "name": "Kova",
+        "description": "Kova burcu insanları yenilikçi, özgün ve bağımsız ruhlarıyla tanınırlar. Toplumsal konulara duyarlıdırlar ve insan hakları gibi konularda aktif olabilirler. Zekaları ve ilginç fikirleriyle dikkat çekerler.",
+        "date": "2024-03-08"
+    },
+    {
+        "Id": 4,
+        "name": "Balık",
+        "description": "Balık burcu insanları duyarlı, empatik ve hayal güçleri güçlü kişilerdir. Derin duyguları ve sanatsal yetenekleri vardır. Diğer insanların duygularını anlamak konusunda hassas bir şekilde hareket ederler.",
+        "date": "2024-04-03"
+    },
+    {
+        "Id": 5,
+        "name": "Koç",
+        "description": "Koç burcu insanları cesur, enerjik ve lider ruhlu kişilerdir. Kararlılıkla hedeflerine ilerlerler ve engellerle karşılaştıklarında kolayca pes etmezler. Cesaretleri ve girişimci ruhlarıyla tanınırlar.",
+        "date": "2024-01-19"
+    },
+    {
+        "Id": 6,
+        "name": "Boğa",
+        "description": "Boğa burcu insanları sabırlı, kararlı ve güvenilir kişilerdir. Pratik ve realist bir bakış açısına sahiptirler. İnatçı olabilirler ancak bir kez karar verdiğinde o konuda kararlılıkla ilerlerler.",
+        "date": "2024-02-25"
+    },
+    {
+        "Id": 7,
+        "name": "İkizler",
+        "description": "İkizler burcu insanları meraklı, iletişimci ve zeki kişilerdir. Değişken yapılı olmalarıyla tanınırlar ve birçok farklı konuda ilgi duyabilirler. Esprili ve neşeli bir kişiliğe sahiptirler.",
+        "date": "2024-03-11"
+    },
+    {
+        "Id": 8,
+        "name": "Yengeç",
+        "description": "Yengeç burcu insanları duygusal, koruyucu ve sadık kişilerdir. Aileleri ve sevdikleri için her zaman yanlarında olurlar. Hassas ve empatik bir yapıya sahip olmalarıyla bilinirler.",
+        "date": "2024-04-30"
+    },
+    {
+        "Id": 9,
+        "name": "Aslan",
+        "description": "Aslan burcu insanları gururlu, cömert ve liderlik vasıflarına sahip kişilerdir. Kendilerine güvenleri tamdır ve dikkat çekici bir karizmaya sahiptirler. Başkalarını motive etme konusunda başarılıdırlar.",
+        "date": "2024-04-28"
+    },
+    {
+        "Id": 10,
+        "name": "Başak",
+        "description": "Başak burcu insanları pratik, detaycı ve düzenli kişilerdir. Analitik düşünme yetenekleri gelişmiştir ve mükemmeliyetçi olabilirler. Detaylara dikkat ederek işlerini titizlikle yaparlar.",
+        "date": "2024-03-14"
+    },
+    {
+        "Id": 11,
+        "name": "Terazi",
+        "description": "Terazi burcu insanları dengeli, uyumlu ve adil kişilerdir. Adalet duyguları güçlüdür ve ilişkilerde dengeyi sağlamak konusunda başarılıdırlar. Uyumlu bir ortam oluşturma konusunda beceriklidirler.",
+        "date": "2024-01-07"
+    },
+    {
+        "Id": 12,
+        "name": "Akrep",
+        "description": "Akrep burcu insanları tutkulu, kararlı ve gizemli kişilerdir. Derin duyguları vardır ve hayatlarında derinlik ararlar. Hedeflerine odaklanarak kararlılıkla ilerlerler.",
+        "date": "2024-02-19"
+    }
+]
